@@ -1,2 +1,6 @@
 hello world from git
+<<<<<<< HEAD
 <h1>this is the titile of my file </h1>
+=======
+this is an extra infos about the file that created in local repo
+>>>>>>> 2ba56f1b937c85f8e3355948f50a63151a52a62c
