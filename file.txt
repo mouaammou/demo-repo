@@ -1,1 +1,2 @@
 hello world from git
+this is an extra infos about the file that created in local repo
